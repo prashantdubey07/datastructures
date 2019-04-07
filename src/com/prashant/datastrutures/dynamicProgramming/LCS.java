@@ -3,7 +3,7 @@ package com.prashant.datastrutures.dynamicProgramming;
 class LargestCommonSequence {
 
 	// ****************************
-	// Get minimum of three values
+	// Get maximum of two values
 	// ****************************
 
 	private int maximum(int a, int b) {
